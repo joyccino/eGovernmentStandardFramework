@@ -6,5 +6,4 @@
 https://www.egovframe.go.kr/cop/bbs/selectBoardArticle.do?nttId=1739&bbsId=BBSMSTR_000000000004&menu=4 (for Windows10) <br>
 https://www.egovframe.go.kr/cop/bbs/selectBoardArticle.do?nttId=1740&bbsId=BBSMSTR_000000000004&menu=4 (for MacOS) <br>
 다운로드한 dmg/exe 파일을 더블클릭하여 실행합니다. <br>
-윈도우 운영체제를 사용하는 경우 [Destination folder]에서 <Browse...> 버튼을 눌러 c:\를 선택하고, <br>
-c:\ 에 압축을 해제합니다.
+윈도우 운영체제를 사용하는 경우 [Destination folder]에서 <Browse...> 버튼을 눌러 c:\를 선택하고, c:\ 에 압축을 해제합니다.
